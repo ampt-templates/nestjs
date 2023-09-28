@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@ampt/nestjs": "^1.0.0",
-    "@ampt/sdk": "^0.0.1-beta.64",
+    "@ampt/sdk": "^1.0.0",
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",

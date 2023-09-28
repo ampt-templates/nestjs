@@ -15,10 +15,8 @@ const app_service_1 = require("./app.service");
 let AppController = class AppController {
     constructor(appService) {
         this.appService = appService;
-        console.log(appService, 'in app controller');
     }
     getHello() {
-        console.log('in getHello');
         return this.appService.getHello();
     }
 };
