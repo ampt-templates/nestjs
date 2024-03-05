@@ -15,3 +15,5 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+.amptrc
+.ampt*rc
